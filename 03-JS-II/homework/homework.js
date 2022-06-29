@@ -198,7 +198,7 @@ function esPrimo(numero) {
         return false};
     }
     // Si no se pudo dividir por ninguno de los de arriba, sí es primo
-    return true;
+    return true;s
 }
 
 function esVerdadero(valor){
